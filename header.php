@@ -45,7 +45,8 @@
 
 		</header>
 		<!-- /header -->
-		
+
 		<!-- wrapper -->
 		<div class="wrapper">
+			<div class="main">
 
